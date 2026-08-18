@@ -12,3 +12,6 @@ another axample:
 
 <img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/e48ffdf6-19a9-45b1-9761-f33e58ba74f2" />
 
+a little bit of tuning:
+
+<img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/e5b1a17d-a58c-4857-be9d-6a7e1a9f2572" />
