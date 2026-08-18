@@ -2,6 +2,12 @@
 starting out with multiple contrast-tint shaders
 
 
+
+ultrakill:
+<img width="3440" height="1440" alt="image" src="https://github.com/user-attachments/assets/4c637741-6ce1-41ea-b362-505a0677e052" />
+
+
+
 new example with default effect chain:
 
 <img width="1843" height="768" alt="image" src="https://github.com/user-attachments/assets/7a60230c-c2bf-4818-a055-22116cd3cbb6" />
