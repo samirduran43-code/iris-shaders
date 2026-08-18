@@ -2,7 +2,7 @@
 starting out with multiple contrast-tint shaders
 
 
-ultra tuned:
+ultra tuned: (!!! LSD EFFECT !!!)
 <img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/0bf2d880-9743-4502-a95f-993f713a9086" />
 
 
