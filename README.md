@@ -6,6 +6,7 @@ new example with default effect chain:
 
 <img width="1843" height="768" alt="image" src="https://github.com/user-attachments/assets/7a60230c-c2bf-4818-a055-22116cd3cbb6" />
 
+<img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/d59d9fa6-c6b5-4160-9869-e6877be6cc31" />
 
 
 
