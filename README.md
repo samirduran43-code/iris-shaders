@@ -7,6 +7,12 @@ starting out with multiple contrast-tint shaders
 
 
 
+new example with default effect chain:
+
+<img width="1843" height="768" alt="image" src="https://github.com/user-attachments/assets/7a60230c-c2bf-4818-a055-22116cd3cbb6" />
+
+
+
 
 another axample:
 
@@ -18,3 +24,5 @@ a little bit of tuning:
 
 
 <img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/a133ce88-1367-4363-9ab7-67d37ecb10d0" />
+
+
