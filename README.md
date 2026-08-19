@@ -2,6 +2,9 @@
 starting out with multiple contrast-tint shaders
 
 
+so this for example, u get nice layering with ordinary sunglasses (but lenses swapped, bought 2 pair, swapped so its both blue + green on one pair of glasses
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/30dbecdd-07e6-428f-b1a6-b29ffaa8cfc6" />
+
 ultra tuned: (!!! LSD EFFECT !!!)
 <img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/0bf2d880-9743-4502-a95f-993f713a9086" />
 
